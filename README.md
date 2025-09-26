@@ -1,1 +1,1 @@
-COMP2511 25T3 W16A Tutorial Code
+COMP2511 25T3 Tutorial Code
